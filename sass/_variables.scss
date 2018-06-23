@@ -1,0 +1,65 @@
+$baseline: 16px;
+
+/* Fonts */
+$heading: 'Montserrat', sans-serif;
+$body-font: arial;
+
+/* Modular Scale */
+$modularscale: (
+  base: 1em,
+  ratio: 1.5
+);
+
+/* Colours */
+$grey: #d5d6d8;
+
+/* Media Queries */
+$breakpoints: (
+    "phone":        400px,
+    "phone-wide":   480px,
+    "phablet":      560px,
+    "tablet-small": 640px,
+    "tablet":       768px,
+    "tablet-wide":  1024px,
+    "desktop":      1248px,
+    "desktop-wide": 1440px
+);
+@mixin media_query($width, $type: min) {
+    @if map_has_key($breakpoints, $width) {
+        $width: map_get($breakpoints, $width);
+        @if $type == max {
+            $width: $width - 1px;
+        }
+        @media only screen and (#{$type}-width: $width) {
+            @content;
+        }
+    }
+}
+
+/* borders */
+.bottom-border {
+    border-bottom:1px solid $grey;
+    padding-bottom:$baseline;
+    margin-bottom:$baseline;
+}
+
+
+/* Flex */
+@mixin flex($direction, $align, $justify) {
+    display:flex;
+    flex-direction: $direction;
+    align-items:$align;
+    justify-content: $justify;
+}
+
+.flex-vert, .flex-across {
+    display: flex;
+    align-items:center;
+}
+.flex-vert {
+
+}
+.flex-across {
+    flex-direction: row;
+    justify-content: center;
+}
