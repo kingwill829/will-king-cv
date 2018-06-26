@@ -65,7 +65,7 @@
 					</div>
 				
 					<div class="cv-skills__item-detail">
-						<p>SEO is my primary area of expertise. I have developed and implemented multiple SEO strategies for a variety of UK websites. I believe organic search shoulf form the core of any digital acquisition strategy due to the large amounts of profitable, qualified traffic it can provide</p>
+						<p>SEO is my primary area of expertise. I have developed and implemented multiple SEO strategies for a variety of UK websites achieving <span class="emphasise">outstanding levels of success</span>. I believe organic search should form the core of any digital acquisition strategy due to the large volume of sustained, qualified and profitable traffic it can generate</p>
 					</div>
 				</div>
 
@@ -83,7 +83,7 @@
 					</div>
 				
 					<div class="cv-skills__item-detail">
-						<p>I place huge emphasis on the value of web tracking tools such as Google Analytics. As a <span class="emphasise">Certified Google Analytics Individual</span> I'm able to translate web analytics into valuable business insights. Identify opportunities for growth</p>
+						<p>As a <span class="emphasise">Certified Google Analytics Individual</span> I'm able to translate web analytics data into valuable business insights. I'm highly experienced and capable with tools such as Server Log Files, Google Tag Manager, Search Console, Ahrefs, SEM Rush and Pi Datametrics</p>
 					</div>
 				</div>
 
@@ -101,7 +101,7 @@
 					</div>
 				
 					<div class="cv-skills__item-detail">
-						<p>Whether it's ecommerce or lead-generation, my CRO expertise includes AB / MVT Testing. </p>
+						<p>Encapsulating both eCommerce and lead-generation, my CRO background includes running sophistacted AB / MVT testing programs that bring about significant improvement in website performance</p>
 					</div>
 				</div>
 
@@ -119,7 +119,7 @@
 					</div>
 				
 					<div class="cv-skills__item-detail">
-						<p>With a degree in Product Design I've always believed in putting the user first. I've designed and developed the front-end of high-traffic ecommerce websites. From producing wireframe mockups in <span class="emphasise">Adobe Photoshop</span> to building working responsive HTML / JS prototypes.</p>
+						<p>As a Product Design graduate, I've always believed in putting users first. I've designed and developed the front-end of high-traffic ecommerce websites. Be it through visualising wireframe mockups in <span class="emphasise">Adobe Photoshop</span> or coding working responsive HTML / JS prototypes, I can quickly and efficiently bring site developments to fruition</p>
 					</div>
 				</div>
 			</div>
@@ -134,26 +134,26 @@
 						<div class="marb_d">July 2015 - Present</div>
 					</div>
 					<div class="employment-history__item-detail">
-						<p>Find Me a Gift is a major UK online gifts retailer competing against powerful brands such as Not On the High Street, John Lewis and Debenhams. As SEO &amp; CRO Manager I oversee all organic search acquisition and front-end UX development.</p>
+						<p>Find Me a Gift is a major UK online gifts retailer, competing against powerful brands such as Not On the High Street, John Lewis and Debenhams. As SEO &amp; CRO Manager I oversee all organic search acquisition and front-end UX development.</p>
 
 						<h3>Key Responsibilities</h3>
 						<ul>
 							<li>Maximise the organic visibility of Find Me a Gift across UK search engines</li>
-							<li>Quality Assure all front-end developments</li>
+							<li>Quality-Assure all front-end developments</li>
 							<li>Line manage a team of copwriters, SEO Executives and CRO Executives</li>
-							<li>Manage relationships with external agencies and consultants maximising ROI</li>
-							<li>Identify opportunities for growth and drive forward innovations</li>
+							<li>Build and manage relationships with external agencies, Consultants and Google Account Reps maximising ROI</li>
+							<li>Identify opportunities for growth and drive forward UX innovations</li>
 							<li>Monitor web analytics and report insights to senior management</li>
-							<li>AB / MVT testing program</li>
-							<li>UX Roadmap</li> 
+							<li>Manage the AB / MVT testing program</li>
 						</ul>
 
 						<h3>Major Achievements</h3>
 						<ul>
-							<li>Developed and executed an SEO growth strategy that delivered an 80% increase in traffic and &pound;1.3m in additional revenue</li>
+							<li>Developed and executed an SEO growth strategy that delivered an <span class="emphasise">80% increase</span> in traffic and <span class="emphasise">&pound;1.3m</span> in additional revenue</li>
 							<li>Project managed and oversaw two major website redesigns</li>
 							<li>Implemented a successful HTTPs migration</li> 
-							<li>Enhanced Ecommerce, Analytics and GTM</li>
+							<li>Managed the implementation of Enhanced Ecommerce, Analytics and GTM</li>
+							<li>Created an AB testing program returned a <span class="emphasise">20% year-on-year increase</span> in conversion rate</li>
 						</ul>
 					</div>
 				</div>
@@ -198,7 +198,7 @@
 						<div class="marb_d">Aug 2008 - Jan 2013</div>
 					</div>
 					<div class="employment-history__item-detail">
-						<p>As part of the global digital team, I was responsible for managing the content across the regional business websites.</p>
+						<p>I lead the property search website team ensuring all content and member management processes were carried out effectively.</p>
 					</div>
 				</div>
 
